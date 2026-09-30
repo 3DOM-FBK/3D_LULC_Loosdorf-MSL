@@ -1,4 +1,4 @@
-# Loosdorf-MSL: Benchmarking deep learning models for European NMCAs’ LULC schemes with multispectral LiDAR
+# Loosdorf-MSL Benchamrk Dataset & Benchmarking Deep Learning Models for European NMCAs’ LULC Schemes with Multispectral LiDAR Data
 
 ## Citation
 If you find our work useful, please cite:
