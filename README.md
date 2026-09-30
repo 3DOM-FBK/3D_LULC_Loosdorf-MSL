@@ -1,4 +1,14 @@
-# Loosdorf-MSL Benchamrk Dataset & Benchmarking Deep Learning Models for European NMCAs’ LULC Schemes with Multispectral LiDAR Data
+# Loosdorf-MSL: Benchmark Dataset & Code for LULC Classification Using Multispectral LiDAR 
+
+
+## Acknowledgment
+Thanks to the developers and contributors of these excellent open-source projects:
+
+- [Pointcept](https://github.com/Pointcept/Pointcept)
+- [HyperPointFormer](https://github.com/aldinorizaldy/hyperpointformer_pointcept)
+- [KPConvX](https://github.com/apple/ml-kpconvx)
+- [Superpoint Transformer](https://github.com/drprojects/superpoint_transformer)
+
 
 ## Citation
 If you find our work useful, please cite:
