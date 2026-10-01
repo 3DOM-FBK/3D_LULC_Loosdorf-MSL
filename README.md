@@ -1,7 +1,7 @@
 # Loosdorf-MSL: Benchmark Dataset & Code for LULC Classification Using Multispectral LiDAR 
 
 ## Loosdorf-MSL Benchmark Dataset
-The Loosdorf-MSL benchmark dataset is publicly available at [geo.tuwien.ac.at/Loosdorf-MSL](https://geo.tuwien.ac.at/Loosdorf-MSL). 🥳 
+The Loosdorf-MSL benchmark dataset is publicly available at [geo.tuwien.ac.at/Loosdorf-MSL](https://geo.tuwien.ac.at/Loosdorf-MSL). 🥳 \\
 The dataset provides multispectral airborne LiDAR data acquired over the Loosdorf–Melk region in Lower Austria and is intended to support research and industry in multispectral LiDAR processing and related 3D geospatial applications.
 An example of the dataset is shown below.
 ![Example of the Loosdorf-MSL benchmark dataset](docs/Loosdorf-MSL_Dataset.png)
