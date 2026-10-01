@@ -90,7 +90,7 @@ The LULC classes are defined based on our questionnaire conducted with participa
 Since Point Transformer V3 (PTv3) achieved the best overall performance among the seven benchmarked deep learning (DL) models, this repository provides the corresponding PTv3 code, pre-trained models, and resources for reproducibility.
 
 ## Installation
-follows the installation approach of
+Please follow the installation instructions provided in the [Pointcept](https://github.com/Pointcept/Pointcept) repository.
 
 ## Data Preparation for DL
 ### Point Cloud Format
