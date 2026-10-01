@@ -112,8 +112,12 @@ To convert the point clouds into the format required for PTv3 processing, run:
 ## Training
 
 
-## Testing
+## Inference
 The pre-trained models can be find in pre-trained_models folder.
+
++ Green + NIR + pNDVI
+
++ Green + NIR
 
 ## Acknowledgment
 Thanks to the developers and contributors of these excellent open-source projects:
