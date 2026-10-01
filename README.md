@@ -90,8 +90,19 @@ The LULC classes are defined based on our questionnaire conducted with participa
 Since Point Transformer V3 (PTv3) achieved the best overall performance among the seven benchmarked deep learning models, this repository provides the corresponding PTv3 code, pre-trained models, and resources for reproducibility.
 
 ## Data Preparation 
-Accepted point cloud format for data_preparation.py is .ply. In case of having point clouds in laz, use convertlaz2ply.py script with below instruction:
-python convertlaz2ply.py Loosdorf-MSL/train
+### Point Cloud Format
+> [!WARNING]
+> `data_preparation.py` accepts point clouds **only in `.ply` format**.
+>
+> If your point clouds are in `.laz` format, you **must convert them to `.ply`** before running `data_preparation.py`.
+>
+> Use the `convertlaz2ply.py` script to convert your point clouds from `.laz` to `.ply`:
+>
+> ```bash
+> python convertlaz2ply.py Loosdorf-MSL/train
+> ```
+>
+> After conversion, the resulting `.ply` files can be used with `data_preparation.py`.
 
 
 ## Acknowledgment
