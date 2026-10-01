@@ -17,7 +17,7 @@
   <a href="https://www.sciencedirect.com/science/article/pii/S2667393226000402">
     <img src="https://img.shields.io/badge/Open%20ISPRS-Paper-b31b1b.svg" alt="Open ISPRS">
   </a>
-  <a href="https://geo.tuwien.ac.at/Loosdorf-MSL">
+  <a href="https://researchdata.tuwien.ac.at/records/8dtrf-fry23">
     <img src="https://img.shields.io/badge/TU%20Wien-Data%20Portal-blue.svg" alt="TU Wien Data Portal">
   </a>
 </p>
