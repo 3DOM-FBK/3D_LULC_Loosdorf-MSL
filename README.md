@@ -119,7 +119,7 @@ sh scripts/train.sh \
     -g 4 \
     -d loosdorf \
     -c ptv3_LULC-L1_pNDVI \
-    -n ptv3_LULC-L1
+    -n LULC-L1
 ```
 
 For **LULC-L2**, the **+ Green + NIR** initial feature vector yields the best results:
@@ -128,7 +128,7 @@ sh scripts/train.sh \
     -g 4 \
     -d loosdorf \
     -c ptv3_LULC-L2_Green_NIR \
-    -n ptv3_LULC-L2
+    -n LULC-L2
 ```
 
 ## Inference
@@ -140,7 +140,7 @@ sh scripts/test.sh \
   -g 1 \
   -d loosdorf \
   -w model_best\
-  -n ptv3_LULC-L1
+  -n LULC-L1
 ```
 
 For **LULC-L2**:
@@ -149,7 +149,7 @@ sh scripts/test.sh \
   -g 1 \
   -d loosdorf \
   -w model_best\
-  -n ptv3_LULC-L2
+  -n LULC-L2
 ```
 
 
