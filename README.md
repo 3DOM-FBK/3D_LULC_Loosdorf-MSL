@@ -1,7 +1,15 @@
 # Loosdorf-MSL: Benchmark Dataset & Code for LULC Classification Using Multispectral LiDAR 
 
 ## Loosdorf-MSL Benchmark Dataset
-The Loosdorf-MSL benchmark dataset is publicly available at [geo.tuwien.ac.at/Loosdorf-MSL](https://geo.tuwien.ac.at/Loosdorf-MSL). 🥳
+The **Loosdorf-MSL benchmark dataset** is publicly available at [geo.tuwien.ac.at/Loosdorf-MSL](https://geo.tuwien.ac.at/Loosdorf-MSL). 🥳 
+
+The dataset provides multispectral airborne LiDAR data acquired over the Loosdorf–Melk region in Lower Austria and is intended to support research and industry in multispectral LiDAR processing and related 3D geospatial applications.
+An example of the dataset is shown below.
+![Example of the Loosdorf-MSL benchmark dataset](docs/Loosdorf-MSL_Dataset.png)
+
+## LULC Classes
+The LULC classes are defined based on our questionnaire conducted with participating **European National Mapping and Cadastral Agencies (NMCAs)**, supported by **European Spatial Data Research (EuroSDR)**, addressing current and prospective LULC classification schemes of NMCAs.
+![European NMCAs LULC schemes](docs/LULC_Schemes.png)
 
 
 ## Data Preparation for PTv3
@@ -14,6 +22,7 @@ Thanks to the developers and contributors of these excellent open-source project
 - [KPConvX](https://github.com/apple/ml-kpconvx)
 - [Superpoint Transformer](https://github.com/drprojects/superpoint_transformer)
 
+Special thanks to **EuroSDR** for funding this study.
 
 ## Citation
 If you find our work useful, please cite:
