@@ -132,11 +132,26 @@ sh scripts/train.sh \
 ```
 
 ## Inference
-The pre-trained models can be find in pre-trained_models folder.
+Use the following command to inference test/unseen plots. The pre-trained models can be find in pre-trained_models folder. 
 
-+ Green + NIR + pNDVI
+For **LULC-L1**:
+```bash
+sh scripts/test.sh \
+  -g 1 \
+  -d loosdorf \
+  -w model_best\
+  -n ptv3_LULC-L1
+```
 
-+ Green + NIR
+For **LULC-L2**:
+```bash
+sh scripts/test.sh \
+  -g 1 \
+  -d loosdorf \
+  -w model_best\
+  -n ptv3_LULC-L2
+```
+
 
 ## Acknowledgment
 Thanks to the developers and contributors of these excellent open-source projects:
