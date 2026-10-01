@@ -87,6 +87,8 @@ The LULC classes are defined based on our questionnaire conducted with participa
 
 <img src="docs/Benchmarking_DL_models.png" alt="Benchmarking DL models" width="500">
 
+Since the best-performing DL model is Point Transformer V3 (PTv3), 
+
 ## Data Preparation 
 
 ## Acknowledgment
