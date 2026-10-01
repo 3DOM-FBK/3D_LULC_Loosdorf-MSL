@@ -22,13 +22,15 @@
   </a>
 </p>
 
+![Example of the Loosdorf-MSL benchmark dataset](docs/Loosdorf-MSL_Dataset.png)
+
 ## Loosdorf-MSL Benchmark Dataset
 The **Loosdorf-MSL benchmark dataset** is publicly available at [geo.tuwien.ac.at/Loosdorf-MSL](https://geo.tuwien.ac.at/Loosdorf-MSL) 🥳.  
 
 The dataset provides multispectral airborne LiDAR data acquired over the Loosdorf–Melk region in Lower Austria and is intended to support research and industry in multispectral LiDAR processing and related 3D geospatial applications.
 An example of the dataset is shown below.
 
-![Example of the Loosdorf-MSL benchmark dataset](docs/Loosdorf-MSL_Dataset.png)
+![Header image](docs/header.png)
 
 ## LULC Classes
 The LULC classes are defined based on our questionnaire conducted with participating **European National Mapping and Cadastral Agencies (NMCAs)**, supported by **European Spatial Data Research (EuroSDR)**, addressing current and prospective LULC classification schemes of NMCAs. The LULC-L1 (current schemes) includes 8 classes, while the LULC-L2 (prospective schemes) includes 20 classes.
