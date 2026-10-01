@@ -13,6 +13,15 @@
 <sup>5</sup> Department of Remote Sensing and Photogrammetry, Finnish Geospatial Research Institute (FGI), National Land Survey of Finland, Espoo, Finland
 
 
+<p align="center">
+  <a href="https://www.sciencedirect.com/science/article/pii/S2667393226000402">
+    <img src="https://img.shields.io/badge/Open%20ISPRS-Paper-b31b1b.svg" alt="Open ISPRS">
+  </a>
+  <a href="https://geo.tuwien.ac.at/Loosdorf-MSL">
+    <img src="https://img.shields.io/badge/TU%20Wien-Data%20Portal-blue.svg" alt="TU Wien Data Portal">
+  </a>
+</p>
+
 ## Loosdorf-MSL Benchmark Dataset
 The **Loosdorf-MSL benchmark dataset** is publicly available at [geo.tuwien.ac.at/Loosdorf-MSL](https://geo.tuwien.ac.at/Loosdorf-MSL) 🥳.  
 
