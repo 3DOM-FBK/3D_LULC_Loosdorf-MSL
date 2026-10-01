@@ -91,7 +91,7 @@ Since Point Transformer V3 (PTv3) achieved the best overall performance among th
 
 ## Data Preparation 
 Accepted point cloud format for data_preparation.py is .ply. In case of having point clouds in laz, use convertlaz2ply.py script with below instruction:
-python convertlaz2ply.py LidArc_v2/train
+python convertlaz2ply.py Loosdorf-MSL/train
 
 
 ## Acknowledgment
