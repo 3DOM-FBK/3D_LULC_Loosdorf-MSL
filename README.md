@@ -23,7 +23,7 @@ Thanks to the developers and contributors of these excellent open-source project
 - [Superpoint Transformer](https://github.com/drprojects/superpoint_transformer)
 
 Special thanks to **EuroSDR** for funding this study.
-<p align="center"> <img src="docs/logos.png" alt="logos" width="180"> </p>
+<p align="center"> <img src="docs/logos.png" alt="logos" width="400"> </p>
 
 ## Citation
 If you find our work useful, please cite:
