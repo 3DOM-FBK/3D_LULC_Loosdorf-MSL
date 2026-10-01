@@ -85,7 +85,9 @@ The LULC classes are defined based on our questionnaire conducted with participa
 | **mAcc (%)** | 71.0 | <u>71.7</u> | 64.5 | 69.5 | 58.5 | **73.2** | 65.4 |
 | **OA (%)** | 74.9 | 67.9 | **89.1** | 87.8 | 77.8 | <u>89.0</u> | 70.9 |
 
-<img src="docs/Benchmarking_DL_models.png" alt="Benchmarking DL models" width="500">
+<p align="center">
+  <img src="docs/Benchmarking_DL_models.png" alt="Benchmarking DL models" width="500">
+</p>
 
 ## Data Preparation 
 
