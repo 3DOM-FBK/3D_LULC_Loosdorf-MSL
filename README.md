@@ -90,6 +90,9 @@ The LULC classes are defined based on our questionnaire conducted with participa
 Since Point Transformer V3 (PTv3) achieved the best overall performance among the seven benchmarked deep learning models, this repository provides the corresponding PTv3 code, pre-trained models, and resources for reproducibility.
 
 ## Data Preparation 
+Accepted point cloud format for data_preparation.py is .ply. In case of having point clouds in laz, use convertlaz2ply.py script with below instruction:
+python convertlaz2ply.py LidArc_v2/train
+
 
 ## Acknowledgment
 Thanks to the developers and contributors of these excellent open-source projects:
@@ -103,9 +106,18 @@ Special thanks to **EuroSDR** for funding this study 💫.
 <p align="center"> <img src="docs/logos.png" alt="logos" width="400"> </p>
 
 ## Citation
-If you find our work useful, please cite:
+If you find our work useful, please cite our dataset and paper:
 
 ```bibtex
+@dataset{takhtkeshha2026loosdorf_dataset,
+    title={{Loosdorf-MSL dataset: multispectral LiDAR data for LULC classification, supporting current and prospective European NMCAs' schemes}},
+    author={Takhtkeshha, Narges and Rizaldy, Aldino and Hollaus, Markus and Hyyppä, Juha and Remondino, Fabio and Mandlburger, Gottfried},
+    year={2026},
+    publisher={TU Wien},
+    version={v1},
+    doi={10.48436/8dtrf-fry23}
+}
+
 @article{takhtkeshha2026loosdorf,
     title={{Loosdorf-MSL: Benchmarking deep learning models for European NMCAs' LULC schemes with multispectral LiDAR}},
     author={Takhtkeshha, Narges and Rizaldy, Aldino and Hollaus, Markus and Hyyppä, Juha and Remondino, Fabio and Mandlburger, Gottfried},
