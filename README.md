@@ -3,7 +3,7 @@
 [**Aldino Rizaldy**](https://github.com/aldinorizaldy)<sup>3,4</sup>, 
 **Markus Hollaus**<sup>2</sup>, 
 **Juha Hyyppä**<sup>5</sup>, 
-**Fabio Remondino**<sup>1</sup>, 
+[**Fabio Remondino**](https://github.com/3DOM-FBK)<sup>1</sup>, 
 **Gottfried Mandlburger**<sup>2</sup>
 
 <sup>1</sup> 3D Optical Metrology (3DOM), Bruno Kessler Foundation (FBK), Trento, Italy  
