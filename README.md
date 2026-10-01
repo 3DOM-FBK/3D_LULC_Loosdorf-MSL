@@ -104,6 +104,10 @@ Since Point Transformer V3 (PTv3) achieved the best overall performance among th
 >
 > After conversion, the resulting `.ply` files can be used with `data_preparation.py`.
 
+To convert the point clouds into the format required for PTv3 processing, run:
+```bash
+ python data_preparation.py "Loosdorf-MSL/train" "Loosdorf-MSL"
+```
 
 ## Acknowledgment
 Thanks to the developers and contributors of these excellent open-source projects:
