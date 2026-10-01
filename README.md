@@ -87,9 +87,9 @@ The LULC classes are defined based on our questionnaire conducted with participa
 
 <img src="docs/Benchmarking_DL_models.png" alt="Benchmarking DL models" width="500">
 
-Since Point Transformer V3 (PTv3) achieved the best overall performance among the seven benchmarked deep learning models, this repository provides the corresponding PTv3 code, pre-trained models, and resources for reproducibility.
+Since Point Transformer V3 (PTv3) achieved the best overall performance among the seven benchmarked deep learning (DL) models, this repository provides the corresponding PTv3 code, pre-trained models, and resources for reproducibility.
 
-## Data Preparation 
+## Data Preparation for DL
 ### Point Cloud Format
 > [!WARNING]
 > `data_preparation.py` accepts point clouds **only in `.ply` format**.
@@ -108,6 +108,12 @@ To convert the point clouds into the format required for PTv3 processing, run:
 ```bash
  python data_preparation.py "Loosdorf-MSL/train" "Loosdorf-MSL"
 ```
+
+## Training
+
+
+## Testing
+The pre-trained models can be find in pre-trained_models folder.
 
 ## Acknowledgment
 Thanks to the developers and contributors of these excellent open-source projects:
