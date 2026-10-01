@@ -8,7 +8,8 @@ An example of the dataset is shown below.
 ![Example of the Loosdorf-MSL benchmark dataset](docs/Loosdorf-MSL_Dataset.png)
 
 ## LULC Classes
-![Example of the Loosdorf-MSL benchmark dataset](docs/LULC_Schemes.png)
+The LULC classes are defined based on our questionnaire conducted with participating **European National Mapping and Cadastral Agencies (NMCAs)**, supported by **European Spatial Data Research (EuroSDR)**, addressing current and prospective LULC classification schemes of NMCAs.
+![European NMCAs LULC schemes](docs/LULC_Schemes.png)
 
 
 ## Data Preparation for PTv3
@@ -21,6 +22,7 @@ Thanks to the developers and contributors of these excellent open-source project
 - [KPConvX](https://github.com/apple/ml-kpconvx)
 - [Superpoint Transformer](https://github.com/drprojects/superpoint_transformer)
 
+Special thanks to **EuroSDR** for funding this study.
 
 ## Citation
 If you find our work useful, please cite:
