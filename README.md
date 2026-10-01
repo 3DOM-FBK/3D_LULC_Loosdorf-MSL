@@ -7,6 +7,9 @@ The dataset provides multispectral airborne LiDAR data acquired over the Loosdor
 An example of the dataset is shown below.
 ![Example of the Loosdorf-MSL benchmark dataset](docs/Loosdorf-MSL_Dataset.png)
 
+## LULC Classes
+![Example of the Loosdorf-MSL benchmark dataset](docs/LULC_Schemes.png)
+
 
 ## Data Preparation for PTv3
 
