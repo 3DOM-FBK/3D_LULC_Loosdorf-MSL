@@ -106,11 +106,27 @@ Since Point Transformer V3 (PTv3) achieved the best overall performance among th
 
 To convert the point clouds into the format required for PTv3 processing, run:
 ```bash
- python data_preparation.py "Loosdorf-MSL/train" "Loosdorf-MSL"
+ python data_preparation.py "Loosdorf-MSL/train" "Loosdorf-MSL-L2"
 ```
 
 ## Training
+Based on our experiments, for **LULC-L1**, the **+pNDVI** initial feature vector provides the best performance:
+```bash
+sh scripts/train.sh \
+    -g 4 \
+    -d loosdorf \
+    -c ptv3_LULC-L1_pNDVI \
+    -n ptv3_LULC-L1
+```
 
+For **LULC-L2**, the **+ Green + NIR** initial feature vector yields the best results:
+```bash
+sh scripts/train.sh \
+    -g 4 \
+    -d loosdorf \
+    -c ptv3_LULC-L2_Green_NIR \
+    -n ptv3_LULC-L2
+```
 
 ## Inference
 The pre-trained models can be find in pre-trained_models folder.
