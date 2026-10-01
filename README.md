@@ -87,7 +87,7 @@ The LULC classes are defined based on our questionnaire conducted with participa
 
 <img src="docs/Benchmarking_DL_models.png" alt="Benchmarking DL models" width="500">
 
-Since the best-performing DL model is Point Transformer V3 (PTv3), 
+Since Point Transformer V3 (PTv3) achieved the best overall performance among the seven benchmarked deep learning models, this repository provides the corresponding PTv3 code, pre-trained models, and resources for reproducibility.
 
 ## Data Preparation 
 
